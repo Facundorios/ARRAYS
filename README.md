@@ -42,5 +42,3 @@ Las contribuciones son bienvenidas y se pueden hacer a través de pull requests.
 Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ---
-
-Espero que esta descripción te sea útil para tu repositorio. Si necesitas alguna modificación o alguna otra ayuda, ¡no dudes en decirme!
