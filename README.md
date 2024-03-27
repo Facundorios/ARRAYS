@@ -1,8 +1,7 @@
-Claro, puedo ayudarte a redactar la descripción de tu repositorio de una manera más organizada y profesional. Aquí tienes una propuesta:
 
 ---
 
-# Suma de Matrices
+# Suma y Multiplicacion de matrices
 
 Este proyecto consiste en una aplicación web desarrollada con HTML, JavaScript y Node.js que permite al usuario calcular la suma de dos matrices.
 
